@@ -1,2 +1,4 @@
 .vuepress/
 README.md
+*.md
+lab/

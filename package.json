@@ -9,7 +9,7 @@
     "docs:build": "vuepress build docs"
   },
   "author": "heihei <wr_sorarara@yahoo.co.jp>",
-  "license": "MIT",
+  "license": "GNU v3.0",
   "devDependencies": {
     "vuepress": "^1.5.4"
   },
